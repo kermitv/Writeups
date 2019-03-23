@@ -5,9 +5,9 @@
 DX
 Handy commands
 * sfdx force:doc:commands:list
-** lists all commands with short description
-*sfdx force:org:list
-** lists all connected orgs
+  * lists all commands with short description
+* sfdx force:org:list
+  * lists all connected orgs
 
 Must use a Dev Hub org to spin off scratch orgs
 * Can be a dev org, playground/hands-on org or Prod org
